@@ -34,4 +34,4 @@ Cook does not know about the future orders.
 
 the integer part is 8 and hence the answer.
 
-<B><p align=justify>Q2:  Each process p1 p2 p3 p4    with arrival  time and cpu time respectively(0,10)(0,2)(0,1)(04). Write a c program to implement SJF algorithm and find out turn around  time ,wating time average tuen around abd average wating time.</b></p>
+<B><p align=justify>Q2:  Each process p1 p2 p3 p4    with arrival  time and cpu time respectively(0,10)(0,2)(0,1)(04). Write a c program to implement SJF algorithm and find out turn around  time ,wating time average turn around time and  average wating time.</b></p>
